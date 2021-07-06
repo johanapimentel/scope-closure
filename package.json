@@ -1,0 +1,11 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "curso de closures y scope en javascript de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanessa Pimentel",
+  "license": "MIT"
+}
